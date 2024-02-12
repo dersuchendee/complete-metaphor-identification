@@ -1,0 +1,589 @@
+Original_Sentence,Processed_Result
+She gave me a good idea and,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<IDEAS_ARE_OBJECTS>>""
+}"
+This mini-controversy erupted when Republicans introduced a string of amendments in a final effort to obstruct passage of the reconciliation bill,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<LEGISLATION IS WAR>>""
+}"
+With the official start of primary season candidates were off and running as they sought to quickly raise millions of dollars for ad buys,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<POLITICS IS A RACE>>""
+}"
+The US handed over control of the prisoners to Afghan authorities The Democrats wrested control of four governerships from the Republicans in some cases the loss of possession is not voluntary and The government acquired control of the company's assets,"{
+  ""role"": ""assistant"",
+  ""content"": ""The provided sentence contains several instances where the concept of \""control\"" is central to the actions described. The conceptual metaphor that seems to be at play here is CONTROL IS POSSESSION. This metaphor conceptualizes control as if it were a physical object that can be owned, handed over, wrested away, lost, or acquired. This is evident in the phrases \""handed over control,\"" \""wrested control,\"" \""loss of possession,\"" and \""acquired control,\"" which all suggest that control is something that can be transferred or owned much like a physical object or property.\n\nTherefore, the conceptual metaphor for the provided sentence is:\n\n<<CONTROL IS POSSESSION>>""
+}"
+The money is all dried up,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<MONEY_IS_A_LIQUID>>""
+}"
+Congress' refusal to compromise is moving the country toward economic ruin,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<POLITICS IS A JOURNEY>>""
+}"
+He deviated from the straight and narrow,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<MORALITY_IS_STRAIGHTNESS>>""
+}"
+My business is growing like a weed,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<BUSINESSES_ARE_PLANTS>>""
+}"
+She squeezed her way to thinner thighs,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<BODY IS A CONTAINER FOR SIZE>>""
+}"
+Our relationship is veering off-course,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ROMANTIC_RELATIONSHIP_IS_A_JOURNEY>>""
+}"
+Dirt threatens to sink ship of state headline,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<POLITICS IS A SHIP>>""
+}"
+He is a man of fiery passions,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EMOTIONS_ARE_FIRE>>""
+}"
+Improving access to education is the only sure way to cure us of poverty ,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<IMPROVING_ACCESS_TO_EDUCATION_IS_MEDICINE_FOR_POVERTY>>""
+}"
+Signal left turn right: central rhetoric and local reform in China,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<POLITICAL NAVIGATION IS VEHICULAR NAVIGATION>>""
+}"
+There are twenty members in this group,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+He's an articulate thinker,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<IDEAS ARE OBJECTS; COMMUNICATION IS SENDING>>""
+}"
+The goal is a long way off,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<LIFE IS A JOURNEY>>""
+}"
+It takes work to build any relationship,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<RELATIONSHIPS_ARE_PHYSICAL_STRUCTURES>>""
+}"
+He went on with what he was doing,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+She was doing a slow burn,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ANGER IS HEAT>>""
+}"
+The voters of Dillon have clearly spoken,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<COMMUNICATION IS TRANSFER>>""
+}"
+When my mother finds out she'll have a fit,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EMOTIONS ARE PHYSICAL FORCES>>""
+}"
+This gives me a great idea!,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<IDEAS_ARE_OBJECTS>>""
+}"
+She's out of her depression,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EMOTIONS ARE LOCATIONS>>""
+}"
+He just can't seem to grasp the concept,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<Understanding Is Grasping>>""
+}"
+What's holding you back from pursuing your dreams,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<A JOURNEY>>""
+}"
+He got rid of his headache,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+That's all behind us now,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<TIME AS SPACE>>""
+}"
+We are going nowhere with this,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ARGUMENT IS JOURNEY>>""
+}"
+A Triumph in the War Against Cancer,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CANCER_TREATMENT_IS_WAR>>""
+}"
+The CEO looks after her employees with motherly kindness,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CARE IS PARENTING>>""
+}"
+He's pure of heart and therefore would never hurt someone,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<MORALITY IS PURITY>>""
+}"
+His eyes scoured the horizon,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+He's down with the flu,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ILLNESS IS A DOWNWARD FORCE>>""
+}"
+I'm mad!,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+If the injustice is part of the necessary friction of the machine of government let it go: perchance it will wear smooth--certainly the machine will wear out,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<GOVERNMENT_IS_A_MACHINE>>\n\nThe provided sentence uses the conceptual metaphor of \""GOVERNMENT IS A MACHINE,\"" where the workings of government are compared to the mechanical operations of a machine. The terms \""necessary friction,\"" \""wear smooth,\"" and \""machine will wear out\"" suggest that the government, like a machine, experiences wear and tear through its operations, which may include dealing with injustices. The metaphor implies that over time, the system may self-correct (\""wear smooth\"") or eventually become obsolete or require replacement (\""machine will wear out\"").""
+}"
+I have no idea what my friends are doing they've kept me completely in the dark,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<KNOWING_IS_SEEING; IGNORANCE_IS_DARKNESS>>\n\nThe conceptual metaphor behind the sentence \""I have no idea what my friends are doing they've kept me completely in the dark\"" is KNOWING IS SEEING and its corollary IGNORANCE IS DARKNESS. This metaphor equates knowledge with the ability to see and ignorance with being in the dark. When someone is \""kept in the dark,\"" it means they are kept from knowing something, as if they are in a dark place where they cannot \""see\"" (understand or be aware of) what is happening.""
+}"
+He has control over all the workers,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CONTROL IS VERTICALITY>>""
+}"
+He's pure evil,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EVIL_IS_DARK>>""
+}"
+I had reached the boiling point,"{
+  ""role"": ""assistant"",
+  ""content"": ""The sentence \""I had reached the boiling point\"" does not directly align with the metaphors 'COMMUNICATING_IS_POINTING' or 'ECONOMIC_STATUS_IS_A_POINT_ON_A_SCALE'. Instead, it suggests a different conceptual metaphor that is commonly used to describe a state of extreme agitation or anger. The metaphor is based on the physical process of a liquid heating up until it reaches its boiling point, at which it changes state. In this metaphorical sense, reaching a boiling point refers to a climax of emotional tension or stress.\n\nThe conceptual metaphor behind this sentence is:\n\n<<ANGER IS HEAT / EMOTIONS ARE TEMPERATURES>>\n\nThis metaphor is part of a larger conceptual metaphor system where emotions are understood in terms of physical heat. When someone says they've \""reached the boiling point,\"" they're using this metaphor to express that they've hit a limit of emotional endurance, similar to how water reaches its limit of temperature endurance before it starts to boil.""
+}"
+Another round of cuts will cripple the economy,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ECONOMY_IS_A_BODY>>""
+}"
+Opponents tried to dismantle the theory piece by piece,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ARGUMENT IS WAR>>""
+}"
+He's in a superior position,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ARGUMENT IS WAR>>""
+}"
+Both sides girded for battle as they knew the general election would be a hard-won fight,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<NATIONAL_POLITICS_IS_A_BATTLEFIELD>>""
+}"
+and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+You could talk about the dealerships auto dealerships that were closed down when the government got control of a couple of the auto companies an awful lot of people lost jobs businesses were closed and so on,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<GOVERNMENT_IS_A_CONTROLLER>>""
+}"
+His income fell last year,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ECONOMICS_IS_PHYSICAL_LEVELS>>""
+}"
+He is just floating around,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<LIFE IS A JOURNEY>>""
+}"
+Do the exercises at the end of this chapter,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+RNA transcription,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+tissues composed of cells that have become independent to some degree of the normal growth-controlling forces of the host,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+[of cancer elements] Their further fate depends on various factors,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CANCER IS A JOURNEY>>\n\nThe sentence \""[of cancer elements] Their further fate depends on various factors\"" suggests a conceptual metaphor where \""CANCER IS A JOURNEY.\"" This metaphor frames the progression of cancer as a path or journey where the outcome or \""fate\"" of the cancer elements (possibly referring to cancer cells or aspects of the disease) is not predetermined but instead influenced by various factors or \""conditions\"" encountered along the way. This aligns with the idea of a journey where the traveler's experience and destination can be affected by numerous variables.""
+}"
+This information is encoded in DNA,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<INFORMATION IS A CODE>>""
+}"
+spontaneous cancers,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"Within a specific cell type, certain genes are ""switched on"" while others are ""switched off"" and thus inaccessible to the cell's transcriptional machinery.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<GENES ARE SWITCHES>>""
+}"
+Organisms responsible for bacteremia in profoundly neutropenic patients may be found colonizing various body sites before development of bacteremia,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Relatively little is known about DNA repair mechanisms in higher organisms,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+the cells that can mediate the greatest killing,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+the multistep process of neoplasia,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<DISEASE_IS_A_JOURNEY>>\n\nThe conceptual metaphor behind the sentence \""the multistep process of neoplasia\"" can be understood as \""DISEASE_IS_A_JOURNEY.\"" This metaphor frames the development of neoplasia (which is a type of abnormal and uncontrolled cell growth, often associated with cancer) as a journey or path that involves multiple stages or steps. The use of \""multistep\"" suggests a progression or sequence of events, similar to how one might progress through different stages or landmarks on a journey. This metaphor helps to conceptualize the complex biological process of neoplasia in more familiar terms, making it easier to discuss and understand.""
+}"
+the total population of cells,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+DNA methylation may increase transcriptional activity of a gene,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+providing the cell with the ability to withstand toxic agentd,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+the growth and maturation of normal tissues,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<LIFE IS A JOURNEY>>""
+}"
+"promoting agents, or the new class of ""progressor"" agents","{
+  ""role"": ""assistant"",
+  ""content"": ""<<AGENTS ARE ENABLERS>>""
+}"
+carcinogenesis usually is considered multistage,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+their [cancer cells'] chance of survival,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CANCER TREATMENT IS WAR>>""
+}"
+"a layer of ""feeder cells""","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"A related technique, called the polymerate chain reaction (PCR), uses specific primers to copy and amplify a specific DNA sequence.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+the behavior of blood-borne cancer cells,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CANCER IS AN INVADER>>\n\nThe provided sentence, \""the behavior of blood-borne cancer cells,\"" does not explicitly contain a metaphor, but it implies a conceptual metaphor based on the context provided. The term \""blood-borne\"" suggests that the cancer cells are being transported by the bloodstream, which can be seen as an invasion route. The word \""behavior\"" implies that the cancer cells have agency or a pattern of actions, which is a human characteristic often attributed to non-human entities in metaphorical language.\n\nGiven the context of the metaphors provided, such as \""CANCER IS PHYSICAL COMBAT\"" and \""CANCER TREATMENT IS WAR,\"" the conceptual metaphor that seems to fit best is \""CANCER IS AN INVADER.\"" This metaphor frames cancer as an external force that enters the body and disrupts its normal functioning, much like an invading army that enters a territory and causes harm. It aligns with the notion of cancer cells traveling through the bloodstream and invading other parts of the body, which is characteristic of metastasis.""
+}"
+gag- or env-onc fusion products may serve to contribute to transforming potential by misdirecting an oncogene product to an improper cellular location,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<STATES_ARE_LOCATIONS>>\n\nThe conceptual metaphor behind the sentence \""gag- or env-onc fusion products may serve to contribute to transforming potential by misdirecting an oncogene product to an improper cellular location\"" can be understood as STATES_ARE_LOCATIONS. This metaphor is used to conceptualize the state of a cell or its components (in this case, the oncogene product) as being in a particular location. The idea of misdirecting an oncogene product to an improper cellular location suggests that the 'normal' or 'proper' state of the cell is being altered or transformed, which is akin to moving to a different location in a metaphorical sense. The 'improper location' implies a deviation from a desired or healthy state (location) to an undesirable or diseased state (another location), which in the context of cancer, refers to the transformation of cells from a non-cancerous to a cancerous state.""
+}"
+Tumor cells must penetrate,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+the sheer complexity of this multistep tumor-host interaction,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CLASS_INTERACTION_IS_PHYSICAL_COMBAT>>""
+}"
+and the primary RNA transcript consists of a series of coding an noncoding regions.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+members of the oncogene group that rescues cells from senescence,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Tumor cell invasio requires crossing tissue compartment barriers such as basement membranes and interstitial connective tissues.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"It [the cell] may divide, giving rise to one or more generations of daughter cells before some or all of the progeny become sterile","{
+  ""role"": ""assistant"",
+  ""content"": ""<<LIFE IS A JOURNEY>>""
+}"
+ready for battle,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ARGUMENT IS WAR>>""
+}"
+cells that immigrate from unirradiated adjacent areas,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I’m … also sharpening my weapons in case I have to do battle,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ARGUMENT IS WAR>>""
+}"
+I’m not winning this battle,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<LIFE IS A BATTLE>>""
+}"
+...which is lethal for S-phase cells,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"Fibrosarcomas and angiosarcomas ..., invade surrounding muscle basement membrane and destroy myocytes.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<ILLNESS IS INVASION>>""
+}"
+"These studies, carried out princiaplly with mouse epiermis in vivo, suggested that the latent period during epidermal carcinogenesis of the skin of the mouse consisted of at least two stages, now termed initiation and promotion.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Growth of more fastidious cells,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+...and therefore these cells will survive treatment,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Tumor cells must cross basement membranes to invade peripheral nerves ...,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+cDNA libraries...have been extremely useful for identifying transcripts,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+ask your chemo nurses or your specialist if your looking for anything that might be of help in your fight against cancer,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CANCER_TREATMENT_IS_WAR>>""
+}"
+"The matrix determines tissue architecture, has important biologic functions, and is a mechanical barrier to invasion","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+gene expression: transcription translation,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<GENE EXPRESSION IS LANGUAGE>>""
+}"
+But the emotional side of cancer and of BC [breast cancer] in particular is the real killer—it strangles and shocks your soul.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EMOTIONS ARE OPPRESSORS>>""
+}"
+"It [a metastatic tumour cell] must then enter the circulation, survive in the circulation, arrest at the distant vascular bed, extravasate into the organ interstitium and parenchyma, and multiply to initiate a metastatic colony","{
+  ""role"": ""assistant"",
+  ""content"": ""<<JOURNEY metaphor>>\n\nThe conceptual metaphor behind the provided sentence is that of a JOURNEY. This metaphor frames the process of metastasis as if the tumor cell is a traveler on a journey. The stages of metastasis are described using language typically associated with the experiences and challenges one might face on a trip. The cell must \""enter the circulation\"" as if starting its journey, \""survive in the circulation\"" as if enduring the trip, \""arrest at the distant vascular bed\"" as if reaching a stop, \""extravasate into the organ interstitium and parenchyma\"" as if navigating through difficult terrain, and \""multiply to initiate a metastatic colony\"" as if settling in a new land. This metaphor helps to conceptualize the complex biological process in more familiar terms.""
+}"
+This activates a process termed signal transduction whereby specific signals are transmitted throughout the cell to the nucleus,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CELL AS A FACTORY OR CITY>>""
+}"
+"neoplastic stem cells in a GO state present a major obstacle to any chemotherapy based on selectively killing only growing, cycling cells.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Normal stem cells are susceptible to a variety of positively and negatively acting growth factors that provide a growth regulatory feedback network,"{
+  ""role"": ""assistant"",
+  ""content"": ""The sentence \""Normal stem cells are susceptible to a variety of positively and negatively acting growth factors that provide a growth regulatory feedback network\"" does not directly invoke any of the provided conceptual metaphors. However, it does suggest a metaphorical understanding of biological processes in terms of systems and networks, which is a common way to conceptualize complex interactions in many fields.\n\nThe closest related conceptual metaphor from the provided list would be:\n\n<<IDEA_SYSTEMS_ARE_COMPLEX_PHYSICAL_SYSTEMS>>\n\nThis metaphor is applicable because the sentence describes stem cells as being part of a \""growth regulatory feedback network,\"" which can be understood as a complex system with various components interacting with each other, similar to how parts of a physical system interact. The growth factors act within this network, influencing the behavior of the stem cells, akin to how elements within a complex physical system affect each other.""
+}"
+second messengers,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"The action of these substances might, in part, explain both the markedly invasive character and the metastatic property of malignang neoplastic cells.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+These cells...are extremely large...and contain large stores of gene transcription and mRNA translation machinery.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Mulching is a pleasant activity for October.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+We have seen Brittany.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Had it been stolen?,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Then I do normally watch it with you.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+She was almost asleep.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Some else is sitting at their desk?,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Even if you do not intend to be disloyal there is always the risk that you might be careless.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Old men remembering their youth.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Nobody spoke immediately.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+And yet there are accidents.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Four hours of instruction a day for two weeks.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+We are trying to find our missing scientist now.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"But he he said,  don't wash it I wanna wear it.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+And don't try and get the door open.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I think it 's a good idea.,"{
+  ""role"": ""assistant"",
+  ""content"": ""Given the sentence \""I think it's a good idea,\"" and the list of metaphors related to 'IDEA' or 'GOOD,' the conceptual metaphor that seems most relevant is:\n\n<<IDEAS_ARE_OBJECTS>>\n\nThis metaphor is applicable because the sentence treats an idea as something that can be evaluated in terms of quality, much like an object can be. The phrase \""a good idea\"" implies that ideas can possess qualities similar to physical objects, which can be good or bad, functional or dysfunctional. The conceptual metaphor \""GOODNESS_IS_VERTICALITY\"" might also be relevant, as the term \""good\"" is often associated with high value or high moral standing, but without more context that specifically invokes the notion of verticality, \""IDEAS_ARE_OBJECTS\"" seems to be the more directly applicable metaphor.""
+}"
+Madame snorted again.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+They ought to be near him soon.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I was shocked for a minute.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<EMOTIONS ARE PHYSICAL FORCES>>""
+}"
+People are coming to do some Christian teaching for us.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Lawton came and crouched down in front of it.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"Adam sat in his parents' house, drinking tea.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+"That's not my artwork on there, that's my little niece's artwork.","{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+The inspector was not listening.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+The doorbell sounded.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+When did you eat when did you eat your chips?,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+The further away the better.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+The friend found one at a garage.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Yeah I know.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Output from the system is both tabular and graphical .,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Chosen routes were those which minimized population rather than distance.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<CHOOSING_A_PATH_IS_MAKING_A_DECISION>>\n\nThe sentence \""Chosen routes were those which minimized population rather than distance.\"" suggests a conceptual metaphor where making a decision is likened to choosing a path or route. The decision-making process is metaphorically framed as selecting a path that achieves a specific goal\u2014in this case, minimizing exposure to population rather than minimizing physical distance. This metaphor is related to the idea that life choices or strategic decisions can be seen as paths or routes that one takes, where different criteria determine the direction or the route chosen.""
+}"
+He had not prayed for Ann Maguire.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Ours is actually a new house.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Name badges are worn by staff.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I don't understand business.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<UNDERSTANDING_IS_DIGESTING>>""
+}"
+But the upstairs one that is the kitchen is a bit smaller.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+They saw Daniel advancing.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+He shrugged his narrow shoulders.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I don't like Miss Fitch.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+I want you to promise me here and now that you will not see Gary Oliver again.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Well you just go to the front entrance,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+He did not even see an English newspaper.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+When he was little he was sat in his buggy.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+He once bought me a Louis Vuitton handbag.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+The day of the hearing of her second case she had been found dead.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+There was nothing in his house to remind him of Ecalpemos.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<MEMORY_IS_A_STOREHOUSE>>""
+}"
+Where do you get your carrots from?,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Are we to sell our cattle or our land? ,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Others are not so well informed.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<no metaphor>>""
+}"
+Lawton scanned upwards.,"{
+  ""role"": ""assistant"",
+  ""content"": ""<<ACHIEVING_POWER_IS_MOVING_UPWARDS>>""
+}"
