@@ -1,6 +1,6 @@
 # Mind's Loom: Complete Metaphor Identification with LLMs
 
-This repository houses the code and data for our research on automatic conceptual metaphor identification using Large Language Models (LLMs) and a custom Knowledge Graph. Our work is detailed in the article submitted for publication, where we explore innovative methods for metaphor detection and analysis in textual data.
+This repository houses the code and data for our research on automatic conceptual metaphor identification using Large Language Models and a custom Knowledge Graph. Our work is detailed in the article submitted for publication, where we explore innovative methods for metaphor detection and analysis in textual data.
 
 ## Overview
 
