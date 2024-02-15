@@ -46,13 +46,13 @@ deduplication_threshold = 0.9
 numOfKeywords = 5
 custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedupLim=deduplication_threshold, top=numOfKeywords, features=None)
 
-# Your sentence
+# Sentence
 list_of_keywords = []
 # Extract keywords with YAKE
 # DataFrame to store results
 results_df = pd.DataFrame(columns=['Original_Sentence', 'Processed_Result'])
 
-# Iterate over each row in your DataFrame
+# Iterate over each row in DataFrame
 for index, row in df.iterrows():
     sentence = row['Example']
 
@@ -69,7 +69,6 @@ for index, row in df.iterrows():
     # Define the prompts
     gpt_assistant_prompt = "You're a helpful assistant."
     gpt_user_prompt = f"The original question is as follows: given the provided sentence, '{sentence}', what is the conceptual metaphor behind it?\nWe have provided some context in order for you to know more about the keywords contained: '{responser}'\nWe have the opportunity to refine the existing answer using both the existing answer context and your own knowledge, update (expand) or repeat the existing answer if it's good. Provide the answer in the format <<conceptual metaphor>>. If the sentence, to you, has no conceptual metaphor, answer in the format <<no metaphor>>.\n"
-#few shots rag
     # Define the messages for the conversation
     messages = [
         {"role": "assistant", "content": gpt_assistant_prompt},
