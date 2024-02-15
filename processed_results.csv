@@ -1,5 +1,5 @@
 Original_Sentence,Processed_Result
-She gave me a good idea and,"{
+She gave me a good idea,"{
   ""role"": ""assistant"",
   ""content"": ""<<IDEAS_ARE_OBJECTS>>""
 }"
